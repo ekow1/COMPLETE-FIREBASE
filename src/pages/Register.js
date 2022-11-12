@@ -87,7 +87,7 @@ function Register() {
           </button>
         </div>
         <h6>
-          Already have an account? <Link to="/login" className="text-success">Login here</Link>
+          Already have an account? <Link to="/login" className="text-success">Login</Link>
         </h6>
       </form>
     </div>

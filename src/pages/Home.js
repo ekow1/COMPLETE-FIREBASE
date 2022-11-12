@@ -28,7 +28,7 @@ function Home() {
       </div>
       <div className="row mt-5">
        
-        <div className="col-md-12">
+        <div className="col-md-12 px-5 w-75 mx-auto">
           <Contacts />
         </div>
       </div>

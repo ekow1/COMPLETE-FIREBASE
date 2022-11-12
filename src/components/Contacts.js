@@ -30,6 +30,18 @@ function BasicExample() {
           <td>Akaminko</td>
           <td>@loner</td>
         </tr>
+        <tr>
+          <td>4</td>
+          <td>Zinedine </td>
+          <td>Zidane</td>
+          <td>@white heart</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>Nicholas</td>
+          <td>Boadi</td>
+          <td>@Koti</td>
+        </tr>
       </tbody>
     </Table>
   );
