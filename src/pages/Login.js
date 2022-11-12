@@ -85,8 +85,8 @@ function Login() {
             Sign in with Google
           </button>
         </div>
-        <h6>
-          Don't have an account yet? <Link to="/register">Sign Up</Link>
+        <h6 >
+          Don't have an account yet? <Link to="/register" className="text-success">Sign Up</Link>
         </h6>
       </form>
     </div>
